@@ -61,6 +61,3 @@ Backend API Docs: Open your browser and navigate to http://localhost:8000/docs f
 
 ### 📧 Contact
 For any questions or issues, please contact s68krish@uwaterloo.ca
-
-### 🎥 Video Guide
-[Add your video guide here]
