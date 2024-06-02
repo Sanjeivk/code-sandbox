@@ -89,8 +89,3 @@ async def submit_code(request: CodeRequest):
         raise HTTPException(status_code=400, detail=f"An error occurred: {str(e)}")
     finally:
         db.close()
-
-
-@app.get("/")
-async def main():
-    return {"message": "Hello World"}
