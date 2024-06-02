@@ -9,6 +9,7 @@
    - [Prerequisites](#prerequisites)
    - [Backend Setup](#backend-setup)
    - [Frontend Setup](#frontend-setup)
+   - [Database Setup](#database-setup)
 5. [Access the Application](#access-the-application)
 6. [Contact](#contact)
 7. [Video Guide](#video-guide)
