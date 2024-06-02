@@ -5,7 +5,7 @@
 1. [Project Overview](#project-overview)
 2. [Technologies Used](#technologies-used)
 3. [Features](#features)
-4. [🛠️ Setup Instructions](#setup-instructions)
+4. [Setup Instructions](#setup-instructions)
    - [Prerequisites](#prerequisites)
    - [Backend Setup](#backend-setup)
    - [Frontend Setup](#frontend-setup)
