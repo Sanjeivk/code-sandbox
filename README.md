@@ -41,29 +41,17 @@ This project is a web application that allows users to write, test, and submit P
 
 ### Backend Setup
 
-1. **Navigate to the backend directory**:
+1. **Navigate to the backend directory and Build the backend services**:
    ```sh
-   cd backend
+   cd backend && docker-compose up --build
    ```
-2. **Build and start the backend services**
-    ```sh 
-    docker-compose up --build
-    ```
 
 ### Frontend Setup
 
-1. **Navigate to the frontend directory**:
+1. **Navigate to the frontend directory, Install Dependencies and Start the development server**:
    ```sh
-   cd frontend
+   cd frontend && npm install && npm run dev
    ```
-2. **Install Dependencies**
-    ```sh 
-    npm install
-    ```
-3. **Start the development server**
-    ```sh 
-    npm run dev
-    ```
 
 ### Database Setup
 
