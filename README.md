@@ -43,7 +43,7 @@ This project is a web application that allows users to write, test, and submit P
 
 1. **Navigate to the backend directory**:
    ```sh
-    cd backend
+   cd backend
    ```
 2. **Build and start the backend services**
     ```sh 
@@ -54,7 +54,7 @@ This project is a web application that allows users to write, test, and submit P
 
 1. **Navigate to the frontend directory**:
    ```sh
-    cd frontend
+   cd frontend
    ```
 2. **Install Dependencies**
     ```sh 
