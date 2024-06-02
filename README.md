@@ -49,7 +49,7 @@ This project is a web application that allows users to write, test, and submit P
     docker-compose up --build
     ```
 
-### Backend Setup
+### Frontend Setup
 
 1. **Navigate to the frontend directory**:
    ```sh
@@ -63,6 +63,14 @@ This project is a web application that allows users to write, test, and submit P
     ```sh 
     npm run dev
     ```
+
+### Database Connection
+
+- **host**: localhost
+- **port**: 5432
+- **username**: user
+- **password**: password
+- **database name**: code_execution
 
 ### Prerequisites
 
