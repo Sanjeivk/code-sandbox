@@ -65,7 +65,7 @@ This project is a web application that allows users to write, test, and submit P
     npm run dev
     ```
 
-### Database Connection
+### Database Setup
 
 - **host**: localhost
 - **port**: 5432
