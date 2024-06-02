@@ -11,10 +11,8 @@ DATABASE_URL = "postgresql://user:password@db:5432/code_execution"
 
 app = FastAPI()
 
-# Add CORS middleware
 origins = [
-    "http://localhost:5173",  # React frontend
-    # Add other origins if needed
+    "http://localhost:5173",
 ]
 
 app.add_middleware(
@@ -69,7 +67,6 @@ async def test_code(request: CodeRequest):
 async def submit_code(request: CodeRequest):
     db = SessionLocal()
     try:
-        # Validate code by attempting to compile it
         compile(request.code, "<string>", "exec")
 
         result = subprocess.run(
