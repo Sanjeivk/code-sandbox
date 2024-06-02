@@ -2,17 +2,17 @@
 
 ## 📑 Table of Contents
 
-1. [Project Overview](#project-overview)
-2. [Technologies Used](#technologies-used)
-3. [Features](#features)
-4. [Setup Instructions](#setup-instructions)
+1. [Project Overview](#-project-overview)
+2. [Technologies Used](#-technologies-used)
+3. [Features](#-features)
+4. [Setup Instructions](#-setup-instructions)
    - [Prerequisites](#prerequisites)
-   - [Backend Setup](#backend-setup)
-   - [Frontend Setup](#frontend-setup)
-   - [Database Setup](#database-setup)
-5. [Access the Application](#access-the-application)
-6. [Contact](#contact)
-7. [Video Guide](#video-guide)
+   - [Backend Setup](#-backend-setup)
+   - [Frontend Setup](#-frontend-setup)
+   - [Database Setup](#-database-setup)
+5. [Access the Application](#-access-the-application)
+6. [Contact](#-contact)
+7. [Video Guide](#-video-guide)
 
 ## 🚀 Project Overview
 
