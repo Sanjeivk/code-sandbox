@@ -61,7 +61,7 @@ This project is a web application that allows users to write, test, and submit P
 - **password**: password
 - **database name**: code_execution
 
-### Prerequisites
+### Access the Application
 
 Frontend: Open your browser and navigate to http://localhost:5173
 Backend API Docs: Open your browser and navigate to http://localhost:8000/docs for the FastAPI documentation.
