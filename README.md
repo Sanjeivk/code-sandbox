@@ -44,7 +44,7 @@ This project is a web application that allows users to write, test, and submit P
    ```sh
     cd backend
    ```
-2. **Build and start the backend services
+2. **Build and start the backend services**
     ```sh 
     docker-compose up --build
     ```
