@@ -12,7 +12,6 @@
    - [Database Setup](#-database-setup)
 5. [Access the Application](#-access-the-application)
 6. [Contact](#-contact)
-7. [Video Guide](#-video-guide)
 
 ## 🚀 Project Overview
 
