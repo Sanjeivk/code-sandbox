@@ -1,18 +1,4 @@
 # 🐍 Python Code Execution Website
-
-## 📑 Table of Contents
-
-1. [Project Overview](#-project-overview)
-2. [Technologies Used](#-technologies-used)
-3. [Features](#-features)
-4. [Setup Instructions](#-setup-instructions)
-   - [Prerequisites](#prerequisites)
-   - [Backend Setup](#-backend-setup)
-   - [Frontend Setup](#-frontend-setup)
-   - [Database Setup](#-database-setup)
-5. [Access the Application](#-access-the-application)
-6. [Contact](#-contact)
-
 ## 🚀 Project Overview
 
 This project is a web application that allows users to write, test, and submit Python 3 code. Users can see the result of running their code in real-time. The application consists of a React frontend and a FastAPI backend, ensuring a seamless code execution experience.
