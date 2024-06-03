@@ -21,7 +21,7 @@ This project is a web application that allows users to write, test, and submit P
 
 1. **Navigate to the backend directory and Build the backend services**:
    ```sh
-   cd backend && docker-compose up --build
+   cd backend && docker compose up --build
    ```
 
 ### 💻 Frontend Setup
